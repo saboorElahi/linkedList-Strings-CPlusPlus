@@ -1,6 +1,7 @@
 # linkedList-Strings-CPlusPlus
 This repository contains implementation of linked list in C++ with different string operations. This code was tested on visual studio
 2015. 
+LinkedString.h and LinkedString.cpp contains the code for Linked List class and Source.cpp contains the code for testing the LinkedString class.
 
 	0) Press 0 to Exit
 	1) Press 1 to copy data of Str1 into Str2
